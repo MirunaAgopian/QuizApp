@@ -23,12 +23,18 @@ Prerequisites
 Installation
 bash
 # Clone the repository
+<pre>
 git clone https://github.com/MirunaAgopian/FrontendQuiz
+</pre>
 
 # Navigate into the project
-cd FrontendQuiz <br>
+<pre>
+cd FrontendQuiz
+</pre>
 🔧 Usage <br>
-Open index.html in your browser and start quizzing! Select answers to test your frontend knowledge. Watch your score build and challenge yourself to improve.
+Open index.html in your browser and start quizzing! <br>
+Select answers to test your frontend knowledge. <br>
+Watch your score build and challenge yourself to improve. <br>
 
 🧪 Testing
 - Manual testing via UI interaction:
