@@ -121,10 +121,10 @@ function updateProgressBar(){
     document.getElementById('progress_bar').style = `width: ${percent}%;`;
 }
 
-function evaluateAnswer(selection){ //selection = parameter from each div class = answer-card
+function evaluateAnswer(selection){ 
     let question = questions[currentQuestion];
-    let selectedQuestionNumber = selection.slice(-1) ; //to selec the index, not the element
-    let idOfRightAnswer =`answer_${question.right_answer}`; //in this way I pass a DOM id to a variable
+    let selectedQuestionNumber = selection.slice(-1) ; //to select the index, not the element
+    let idOfRightAnswer =`answer_${question.right_answer}`; 
     
     if(rightAnswerSelected(selectedQuestionNumber)) {
         document.getElementById(selection).parentNode.classList.add('bg-success-subtle');
@@ -133,11 +133,7 @@ function evaluateAnswer(selection){ //selection = parameter from each div class 
         
     } else {
         document.getElementById(selection).parentNode.classList.add('bg-danger-subtle');
-        //.parentNode selects the parent element, so the parent <div>
-
         document.getElementById(idOfRightAnswer).parentNode.classList.add('bg-success-subtle');
-        //if wrong answer is clicked, highlight right answer
-
         audioFail.play();
     }
     document.getElementById("next_btn").disabled = false;
@@ -179,13 +175,6 @@ function changeNrOfCurrenrQuestion(){
 
 }
 
-//Thhings about parseInt():
-//10 is a radix, as parseInt() takes 2 arguments (sting, radix)
-//a radix tells JS what number system to interpret the tring in
-// 10 means decimal.
-// 16 means hexadecimal.
-// 2 means binary.
-// 8 means octal.
 
 function restartGame(){
   document.getElementById('quizz_img').src = "./assets/quiz_img.jpg";
