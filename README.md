@@ -26,8 +26,8 @@ bash
 git clone https://github.com/MirunaAgopian/FrontendQuiz
 
 # Navigate into the project
-cd FrontendQuiz
-🔧 Usage
+cd FrontendQuiz <br>
+🔧 Usage <br>
 Open index.html in your browser and start quizzing! Select answers to test your frontend knowledge. Watch your score build and challenge yourself to improve.
 
 🧪 Testing
