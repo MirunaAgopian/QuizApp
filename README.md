@@ -2,11 +2,11 @@
 _An interactive quiz web app built for frontend enthusiasts! Users answer questions about HTML, CSS, and JavaScript and receive visual and audio feedback based on correctness. Perfect for self-testing or learning through play._
 
 🚀 Features
--🔢 Question Flow: Questions displayed sequentially using a dynamic JSON structure  <br>
--🎯 Answer Feedback: Visual and sound effects for correct and incorrect answers  <br>
--📊 Progress Tracking: See your current question number and total correct answers  <br>
--🔁 Restart Game: Restart the quiz from scratch with reset progress and visuals  <br>
--🧠 Frontend Topics: Covers core concepts of frontend development <br>
+🔢 Question Flow: Questions displayed sequentially using a dynamic JSON structure  <br>
+🎯 Answer Feedback: Visual and sound effects for correct and incorrect answers  <br>
+📊 Progress Tracking: See your current question number and total correct answers  <br>
+🔁 Restart Game: Restart the quiz from scratch with reset progress and visuals  <br>
+🧠 Frontend Topics: Covers core concepts of frontend development <br>
 
 🛠️ Technologies Used
 - HTML
