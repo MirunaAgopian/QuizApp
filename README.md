@@ -2,11 +2,11 @@
 _An interactive quiz web app built for frontend enthusiasts! Users answer questions about HTML, CSS, and JavaScript and receive visual and audio feedback based on correctness. Perfect for self-testing or learning through play._
 
 🚀 Features
--🔢 Question Flow: Questions displayed sequentially using a dynamic JSON structure 
--🎯 Answer Feedback: Visual and sound effects for correct and incorrect answers 
--📊 Progress Tracking: See your current question number and total correct answers 
--🔁 Restart Game: Restart the quiz from scratch with reset progress and visuals 
--🧠 Frontend Topics: Covers core concepts of frontend development
+-🔢 Question Flow: Questions displayed sequentially using a dynamic JSON structure  <br>
+-🎯 Answer Feedback: Visual and sound effects for correct and incorrect answers  <br>
+-📊 Progress Tracking: See your current question number and total correct answers  <br>
+-🔁 Restart Game: Restart the quiz from scratch with reset progress and visuals  <br>
+-🧠 Frontend Topics: Covers core concepts of frontend development <br>
 
 🛠️ Technologies Used
 - HTML
@@ -44,17 +44,19 @@ Watch your score build and challenge yourself to improve. <br>
 - Inspect progress bar updates per question
 
 📁 Project Structure
-FrontendQuiz/
-├── index.html
-├── styles/
-│   └── styles.css
-├── scripts/
-│   └── script.js
-├── assets/
-│   └── images/
-│   └── sounds/
-├── favicon.ico
-└── README.md
+<pre>
+FrontendQuiz/ <br>
+├── index.html <br>
+├── styles/ <br>
+│   └── styles.css <br>
+├── scripts/ <br>
+│   └── script.js <br>
+├── assets/ <br>
+│   └── images/ <br>
+│   └── sounds/ <br>
+├── favicon.ico <br>
+└── README.md <br>
+</pre>
 
 🤝 Contributing
 Pull requests are welcome! Whether it’s new question sets, UI enhancements, or bug fixes—your ideas are valued.
