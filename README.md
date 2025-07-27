@@ -1,4 +1,4 @@
-📚 QuizApp
+📚 QuizApp <br>
 _An interactive quiz web app built for frontend enthusiasts! Users answer questions about HTML, CSS, and JavaScript and receive visual and audio feedback based on correctness. Perfect for self-testing or learning through play._
 
 🚀 Features
