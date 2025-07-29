@@ -58,11 +58,11 @@ FrontendQuiz/ <br>
 └── README.md <br>
 </pre>
 
-🤝 Contributing
+### 🤝 Contributing <br>
 Pull requests are welcome! Whether it’s new question sets, UI enhancements, or bug fixes—your ideas are valued.
 
-📄 License
+### 📄 License <br>
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-🙌 Acknowledgments
+### 🙌 Acknowledgments <br>
 Built with curiosity, Bootstrap love, and sound effects by Miruna Agopian 💙
